@@ -38,14 +38,14 @@ button:hover {
 }
 /* ----- App -----*/
 .app__header {
-  padding: 20px;
+  padding: 10px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
 }
 .app__container {
-  padding: 20px;
+  padding: 10px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
